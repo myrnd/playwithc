@@ -1,4 +1,4 @@
-# MyR&D: Play with "C"
+# MyR&D: Let's Play with "C"
 
 ## Learning Path
 * practice-top20-programs
