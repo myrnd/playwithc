@@ -1,4 +1,4 @@
-# MyR&D C-Programming: Logic begins here...
+# MyR&D Play With "C"
 
 ## Learning Path
 * practice-top20-programs
